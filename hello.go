@@ -4,7 +4,7 @@ package main
 import (
 	"fmt"
 	) 
-func main(){
+func main(){ 
 	var a string = "Test"
 	var b bool
 	var c int
@@ -30,5 +30,7 @@ func main(){
 	fmt.Printf("%v和%v\n",m,n)
 
 	println("Hello World!")
+
+	println("提交测试")
 
 }
